@@ -21,14 +21,6 @@ The website is built with:
 - CSS
 - JavaScript
 
-## Dependencies
-
-- (List any external libraries or frameworks used on the website)
-
-## Setup Instructions
-
-(If the website uses a specific development environment or requires additional setup steps, include instructions here)
-
 ## Contact
 
 - Phone: +7 (843) 205-10-11
